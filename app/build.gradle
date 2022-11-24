@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.bmt.lab1"
+        applicationId "com.bmt.lab2"
         minSdk 21
         targetSdk 32
         versionCode 1

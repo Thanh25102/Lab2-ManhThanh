@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:tools="http://schemas.android.com/tools"
-          package="com.bmt.lab1">
+          package="com.bmt.lab2">
 
     <application
             android:allowBackup="true"
@@ -14,10 +14,10 @@
             android:theme="@style/Theme.Lab1"
             tools:targetApi="31">
         <activity
-                android:name=".CreateUpdateNotice"
+                android:name="com.bmt.lab2.CreateUpdateNotice"
                 android:exported="false"/>
         <activity
-                android:name=".MainActivity"
+                android:name="com.bmt.lab2.MainActivity"
                 android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>

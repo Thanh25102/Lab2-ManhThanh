@@ -1,4 +1,4 @@
-package com.bmt.lab1;
+package com.bmt.lab2;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

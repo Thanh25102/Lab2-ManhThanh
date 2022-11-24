@@ -1,19 +1,14 @@
-package com.bmt.lab1;
+package com.bmt.lab2;
 
 import android.content.Intent;
-import android.content.SharedPreferences;
-import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-import com.bmt.lab1.pattern.SharedPreferencesEnum;
-import com.bmt.lab1.util.DataUtil;
+import com.bmt.lab2.pattern.SharedPreferencesEnum;
+import com.bmt.lab2.util.DataUtil;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
 
-import java.lang.reflect.Type;
 import java.util.*;
 
 public class MainActivity extends AppCompatActivity {

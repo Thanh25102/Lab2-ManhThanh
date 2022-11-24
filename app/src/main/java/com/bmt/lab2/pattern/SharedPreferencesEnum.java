@@ -1,4 +1,4 @@
-package com.bmt.lab1.pattern;
+package com.bmt.lab2.pattern;
 
 import lombok.Getter;
 

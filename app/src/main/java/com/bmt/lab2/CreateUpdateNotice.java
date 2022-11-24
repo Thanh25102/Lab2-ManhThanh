@@ -1,16 +1,12 @@
-package com.bmt.lab1;
+package com.bmt.lab2;
 
 import android.content.Intent;
-import android.content.SharedPreferences;
-import android.util.Log;
 import android.widget.EditText;
 import android.widget.ImageView;
-import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-import com.bmt.lab1.pattern.SharedPreferencesEnum;
-import com.bmt.lab1.util.DataUtil;
-import com.google.gson.Gson;
+import com.bmt.lab2.pattern.SharedPreferencesEnum;
+import com.bmt.lab2.util.DataUtil;
 
 import java.util.ArrayList;
 import java.util.Date;

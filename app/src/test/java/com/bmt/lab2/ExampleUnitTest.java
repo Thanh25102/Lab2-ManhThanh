@@ -1,4 +1,4 @@
-package com.bmt.lab1;
+package com.bmt.lab2;
 
 import org.junit.Test;
 

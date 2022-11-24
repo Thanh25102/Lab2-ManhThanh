@@ -1,6 +1,5 @@
-package com.bmt.lab1;
+package com.bmt.lab2;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

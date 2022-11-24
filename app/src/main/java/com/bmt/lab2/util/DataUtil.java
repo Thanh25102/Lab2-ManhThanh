@@ -1,10 +1,7 @@
-package com.bmt.lab1.util;
+package com.bmt.lab2.util;
 
 import android.content.*;
-import android.os.Build;
-import android.util.Log;
-import android.widget.Toast;
-import com.bmt.lab1.NoteEntity;
+import com.bmt.lab2.NoteEntity;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
